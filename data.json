@@ -1,0 +1,99 @@
+[
+  {
+    "text": "Channel name",
+    "answers": [
+      {
+        "text": "Pewdipie",
+        "isCorrect": false
+      },
+      {
+        "text": "SmfCoder",
+        "isCorrect": true
+      },
+      {
+        "text": "Jack",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "text": "Channel goal",
+    "answers": [
+      {
+        "text": "Help you become a better developer",
+        "isCorrect": true
+      },
+      {
+        "text": "Help you cook amazing cookies",
+        "isCorrect": false
+      },
+      {
+        "text": "Becoming an artist",
+        "isCorrect": false
+      },
+      {
+        "text": "Don't know",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "text": "Subscribe and ...",
+    "answers": [
+      {
+        "text": "Watch all my videos",
+        "isCorrect": false
+      },
+      {
+        "text": "Comment \"I subscribed\"",
+        "isCorrect": false
+      },
+      {
+        "text": "Active the notifications",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "text": "In witch year was the first version of c++ released",
+    "answers": [
+      {
+        "text": "1982",
+        "isCorrect": true
+      },
+      {
+        "text": "1995",
+        "isCorrect": false
+      },
+      {
+        "text": "1983",
+        "isCorrect": false
+      },
+      {
+        "text": "1985",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "text": "What is France capital",
+    "answers": [
+      {
+        "text": "Lyon",
+        "isCorrect": false
+      },
+      {
+        "text": "Marseille",
+        "isCorrect": false
+      },
+      {
+        "text": "Paris",
+        "isCorrect": true
+      },
+      {
+        "text": "Lille",
+        "isCorrect": false
+      }
+    ]
+  }
+]
